@@ -1,2 +1,2 @@
-# slm_data_srtm
+# slmDataSRTM
 Processed SRTM digital elevation model data
